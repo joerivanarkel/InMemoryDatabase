@@ -5,4 +5,5 @@ public class Song
     public string Name { get; set; }
     public Genre Genre { get; set; }
     public int Length { get; set; }
+    public string Aha { get; set; }
 }
